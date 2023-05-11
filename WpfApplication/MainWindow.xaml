@@ -1,0 +1,69 @@
+﻿<Window x:Class="WpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="The Ninja Database" FontSize="30" Margin="20,5,0,0"/>
+        
+        <Grid>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Button Name="btnAddNinja" Grid.Column="1" Height="40" Width="360" Content="Add A Ninja" FontSize="20"
+                    Click="btnAddNinja_Click"/>
+            
+            <Button Name="btnAddMultipleNinjas" Grid.Row="1" Grid.Column="0" Height="40" Width="360" Content="Add Ninjas" FontSize="20"
+                    Click="btnAddMultipleNinjas_Click"/>
+            
+            <Button Name="btnNinjaQuery" Grid.Row="5" Grid.Column="1" Height="40" Width="360" Content="Query A Ninja" FontSize="20"
+                    Click="btnNinjaQuery_Click"/>
+            
+            <Button Name="btnQueryAndUpdate" Grid.Row="2" Grid.Column="0" Height="40" Width="360" Content="Query and update Ninja" FontSize="20"
+                    Click="btnQueryAndUpdate_Click"/>
+
+            <Button Name="btnDisconnectedQueryAndUpdate" Grid.Row="2" Grid.Column="1" Height="40" Width="360" Content="Remote Query and update" FontSize="20"
+                    Click="btnDisconnectedQueryAndUpdate_Click"/>
+
+            <Button Name="btnRetrieveUsingFind" Grid.Row="3" Grid.Column="0" Height="40" Width="360" Content="Find a Ninja" FontSize="20"
+                    Click="btnRetrieveUsingFind_Click"/>
+
+            <Button Name="btnRetrieveStoredProc" Grid.Row="3" Grid.Column="1" Height="40" Width="360" Content="Retrieve with procedure" FontSize="20"
+                    Click="btnRetrieveStoredProc_Click"/>
+
+            <Button Name="btnRemoveNinja" Grid.Row="4" Grid.Column="0" Height="40" Width="360" Content="Remove a Ninja" FontSize="20"
+                    Click="btnRemoveNinja_Click"/>
+
+            <Button Name="btnRemoveNinjaWithKeyValue" Grid.Row="4" Grid.Column="1" Height="40" Width="360" Content="Remove Ninja With KeyValue" FontSize="20"
+                    Click="btnRemoveNinjaWithKeyValue_Click"/>
+
+            <Button Name="btnRemoveNinjaViaStoredProc" Grid.Row="5" Grid.Column="0" Height="40" Width="360" Content="Remove a Ninja with procedure" FontSize="20"
+                    Click="btnRemoveNinjaViaStoredProc_Click"/>
+
+            <Button Name="btnAddNinjaWithEquipment" Grid.Row="1" Grid.Column="1" Height="40" Width="360" Content="Add Ninja with equipment" FontSize="20"
+                    Click="btnAddNinjaWithEquipment_Click"/>
+
+            <Button Name="btnProjectionQuery" Grid.Row="6" Grid.Column="1" Height="40" Width="360" Content="Query Ninja table with projection" FontSize="20"
+                    Click="btnProjectionQuery_Click"/>
+
+            <Button Name="btnNinjaGraphQuery" Grid.Row="6" Grid.Column="0" Height="40" Width="360" Content="Query Ninja table" FontSize="20"
+                    Click="btnNinjaGraphQuery_Click"/>
+
+        </Grid>
+    </Grid>
+</Window>

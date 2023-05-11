@@ -1,0 +1,63 @@
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.deps.json
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.runtimeconfig.json
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.Classes.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.Classes.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.AssemblyReference.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.AssemblyInfoInputs.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.AssemblyInfo.cs
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.CoreCompileInputs.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.CopyComplete
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\refint\NinjaDomain.DataModel.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.genruntimeconfig.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\ref\NinjaDomain.DataModel.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.Migrations.Initial.resources
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.GenerateResource.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.Migrations.IntroducedImodificationHistory.resources
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.deps.json
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.runtimeconfig.json
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.dll
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.pdb
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.Classes.dll
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.Classes.pdb
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.AssemblyReference.cache
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.Migrations.Initial.resources
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.Migrations.IntroducedImodificationHistory.resources
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.GenerateResource.cache
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.AssemblyInfoInputs.cache
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.AssemblyInfo.cs
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.CoreCompileInputs.cache
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.CopyComplete
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.dll
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\refint\NinjaDomain.DataModel.dll
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.pdb
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.genruntimeconfig.cache
+D:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\ref\NinjaDomain.DataModel.dll
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.deps.json
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.runtimeconfig.json
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.dll
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.DataModel.pdb
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.Classes.dll
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\net6.0\NinjaDomain.Classes.pdb
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.AssemblyReference.cache
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.Migrations.Initial.resources
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.Migrations.IntroducedImodificationHistory.resources
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.GenerateResource.cache
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.AssemblyInfoInputs.cache
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.AssemblyInfo.cs
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.CoreCompileInputs.cache
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.csproj.CopyComplete
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.dll
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\refint\NinjaDomain.DataModel.dll
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.pdb
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\NinjaDomain.DataModel.genruntimeconfig.cache
+H:\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\net6.0\ref\NinjaDomain.DataModel.dll

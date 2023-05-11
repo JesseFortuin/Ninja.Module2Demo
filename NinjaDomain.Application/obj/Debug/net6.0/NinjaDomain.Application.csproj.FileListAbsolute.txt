@@ -1,0 +1,59 @@
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.deps.json
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.runtimeconfig.json
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Classes.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.DataModel.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Classes.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.DataModel.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.csproj.AssemblyReference.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.AssemblyInfoInputs.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.AssemblyInfo.cs
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.csproj.CoreCompileInputs.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.csproj.CopyComplete
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\refint\NinjaDomain.Application.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.genruntimeconfig.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\ref\NinjaDomain.Application.dll
+D:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.deps.json
+D:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.runtimeconfig.json
+D:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.dll
+D:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.pdb
+D:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Classes.dll
+D:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.DataModel.dll
+D:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Classes.pdb
+D:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.DataModel.pdb
+D:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.DataModel.dll.config
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.csproj.AssemblyReference.cache
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.AssemblyInfoInputs.cache
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.AssemblyInfo.cs
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.csproj.CoreCompileInputs.cache
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.csproj.CopyComplete
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.dll
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\refint\NinjaDomain.Application.dll
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.pdb
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.genruntimeconfig.cache
+D:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\ref\NinjaDomain.Application.dll
+H:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.deps.json
+H:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.runtimeconfig.json
+H:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.dll
+H:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Application.pdb
+H:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Classes.dll
+H:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.DataModel.dll
+H:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.Classes.pdb
+H:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.DataModel.pdb
+H:\Ninja.Module2Demo\NinjaDomain.Application\bin\Debug\net6.0\NinjaDomain.DataModel.dll.config
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.csproj.AssemblyReference.cache
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.AssemblyInfoInputs.cache
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.AssemblyInfo.cs
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.csproj.CoreCompileInputs.cache
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.csproj.CopyComplete
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.dll
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\refint\NinjaDomain.Application.dll
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.pdb
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\NinjaDomain.Application.genruntimeconfig.cache
+H:\Ninja.Module2Demo\NinjaDomain.Application\obj\Debug\net6.0\ref\NinjaDomain.Application.dll

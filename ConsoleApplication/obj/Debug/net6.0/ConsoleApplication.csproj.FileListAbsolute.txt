@@ -1,0 +1,151 @@
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.exe
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.dll.config
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.deps.json
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.runtimeconfig.json
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\EntityFramework.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.CodeDom.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.Classes.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.DataModel.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.Classes.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.DataModel.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.AssemblyReference.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfoInputs.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfo.cs
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.CopyComplete
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\refint\ConsoleApplication.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.genruntimeconfig.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ref\ConsoleApplication.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.Application.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.Application.pdb
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Text.Json.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.exe
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.dll.config
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.deps.json
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.runtimeconfig.json
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.pdb
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\EntityFramework.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.CodeDom.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Text.Json.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.Application.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.Classes.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.DataModel.dll
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.Application.pdb
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.Classes.pdb
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.DataModel.pdb
+D:\Ninja.Module2Demo\ConsoleApplication\bin\Debug\net6.0\NinjaDomain.DataModel.dll.config
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.AssemblyReference.cache
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfoInputs.cache
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfo.cs
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.CopyComplete
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.dll
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\refint\ConsoleApplication.dll
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.pdb
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.genruntimeconfig.cache
+D:\Ninja.Module2Demo\ConsoleApplication\obj\Debug\net6.0\ref\ConsoleApplication.dll

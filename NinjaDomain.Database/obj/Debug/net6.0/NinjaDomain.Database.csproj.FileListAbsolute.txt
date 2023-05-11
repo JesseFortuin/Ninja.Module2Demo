@@ -1,0 +1,5 @@
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Database\obj\Debug\net6.0\NinjaDomain.Database.csproj.AssemblyReference.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Database\obj\Debug\net6.0\NinjaDomain.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Database\obj\Debug\net6.0\NinjaDomain.Database.AssemblyInfoInputs.cache
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Database\obj\Debug\net6.0\NinjaDomain.Database.AssemblyInfo.cs
+D:\Dev\Lessons\Getting Started with Entity Framework 6\Ninja.Module2Demo\NinjaDomain.Database\obj\Debug\net6.0\NinjaDomain.Database.csproj.CoreCompileInputs.cache
